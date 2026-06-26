@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 # Hi there 👋 I'm Sora Pak
 
 ## 🤖 Artificial Intelligence • Data Science • Financial Risk
