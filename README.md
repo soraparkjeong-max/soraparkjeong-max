@@ -1,58 +1,56 @@
 # Hi there 👋 I'm Sora Pak
 
-## 🤖 Artificial Intelligence | Data Science | Financial Risk Analytics
+## 🤖 Artificial Intelligence • Data Science • Financial Risk
 
-I'm passionate about transforming data into intelligent solutions using Artificial Intelligence, Machine Learning and Python.
+I'm passionate about transforming complex data into intelligent solutions through Artificial Intelligence, Machine Learning and Data Science.
 
-Currently I'm pursuing an MBA in Artificial Intelligence & Analytics while working with Financial Risk, Regulatory Capital and Stress Testing.
+Currently, I work in Financial Risk and Regulatory Capital while pursuing an MBA in Artificial Intelligence & Analytics.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Featured Areas
 
 - 🤖 Artificial Intelligence
-- 📊 Data Science
-- 💹 Financial Risk Analytics
+- 🧠 Machine Learning
 - 🗺️ Spatial Analytics
-- 🧠 Natural Language Processing
-- 📈 Machine Learning
+- 💬 Natural Language Processing (NLP)
+- 💹 Financial Risk Analytics
+- 📊 Time Series Forecasting
 
 ---
 
 ## 💻 Tech Stack
 
-- Python
-- SQL
-- SAS
-- Pandas
-- NumPy
-- Scikit-Learn
-- GeoPandas
-- GeoDA
-- Transformers
-- Power BI
-- Git
+🐍 Python • SQL • SAS
+
+📊 Pandas • NumPy • Scikit-Learn
+
+🗺️ GeoPandas • GeoDA • PySAL
+
+🤗 Hugging Face • Transformers
+
+📈 Power BI • Git • GitHub
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Building
 
-- Large Language Models (LLMs)
-- Generative AI
-- Spatial Statistics
-- Deep Learning
-- MLOps
+🚧 Spatial Energy Analysis
+
+🚧 NLP Projects
+
+🚧 Machine Learning Portfolio
+
+🚧 AI for Financial Risk
 
 ---
 
-## 📂 Featured Projects
+## 🎯 2026 Goals
 
-🚧 Coming soon...
-
-- Spatial Energy Analysis
-- NLP News Classification
-- Text Similarity with TF-IDF
-- Sentiment Analysis using Transformers
+- Build 15+ AI & Data Science projects
+- Share technical content on LinkedIn
+- Contribute to open-source projects
+- Apply AI to Financial Risk problems- Sentiment Analysis using Transformers
 - Financial Risk Analytics
 
 ---
